@@ -1,0 +1,27 @@
+
+
+body {
+  width: 100%;
+  padding-bottom: 40px;
+  color: #428bca;
+}
+
+
+.featurette-divider {
+  margin: 25px 0; 
+}
+
+
+.featurette-heading {
+  font-weight: 100;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
